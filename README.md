@@ -428,21 +428,21 @@ bytearray(b'flag{96f0f08c0188ba04898ce8cc465c19c4}')
 
 ## Ссылки
 
-Binwalk by ReFirmLabs: [https://github.com/ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk)
-JohnTheRipper by magnumripper: [https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper)
-Rockyou wordlist: [https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt)
-Wireshark by Wireshark Foundation: [https://www.wireshark.org/download.html](https://www.wireshark.org/download.html)
-Reverse Engineer USB keystroke by AliBawazeEer: [https://medium.com/@ali.bawazeeer/kaizen-ctf-2018-...](https://medium.com/@ali.bawazeeer/kaizen-ctf-2018-reverse-engineer-usb-keystrok-from-pcap-file-2412351679f4)
-Brainfuck interpreter: [https://copy.sh/brainfuck/](https://copy.sh/brainfuck/)
-Top 10 Most Complex and Bizarre esoteric programming languages: [https://ourcodeworld.com/articles/read/427/top-10...](https://ourcodeworld.com/articles/read/427/top-10-most-complex-and-bizarre-esoteric-programming-languages)
-Malbolge interpreter: [https://zb3.me/malbolge-tools/#interpreter](https://zb3.me/malbolge-tools/#interpreter)
-Keyboar layout converter: [https://awsm-tools.com/text/keyboard-layout](https://awsm-tools.com/text/keyboard-layout)
-Caesar Cipher Encoder/Decoder: [https://cryptii.com/pipes/caesar-cipher](https://cryptii.com/pipes/caesar-cipher)
-Online crypto tools: [https://www.dcode.fr/tools-list#cryptography](https://www.dcode.fr/tools-list#cryptography)
-Online AES Encryption and Decryption: [https://www.devglan.com/online-tools/aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption)
-Base64 online decoder: [https://emn178.github.io/online-tools/base64_decode.html](https://emn178.github.io/online-tools/base64_decode.html)
-Binary to Text translator: [https://www.rapidtables.com/convert/number/binary-to-ascii.html](https://www.rapidtables.com/convert/number/binary-to-ascii.html)
-About substitution cipher: [http://practicalcryptography.com/ciphers/simple-substitution-cipher/](http://practicalcryptography.com/ciphers/simple-substitution-cipher/)
-Cryptoanalysis of substitution cipher: [http://practicalcryptography.com/cryptanalysis/stochastic-searching/crypt...](http://practicalcryptography.com/cryptanalysis/stochastic-searching/cryptanalysis-simple-substitution-cipher/)
-Morse Code Adaptive Audio Decoder: [https://morsecode.scphillips.com/labs/audio-decoder-adaptive/](https://morsecode.scphillips.com/labs/audio-decoder-adaptive/)
+Binwalk by ReFirmLabs: [https://github.com/ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) <br>
+JohnTheRipper by magnumripper: [https://github.com/magnumripper/JohnTheRipper](https://github.com/magnumripper/JohnTheRipper) <br>
+Rockyou wordlist: [https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt](https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt) <br>
+Wireshark by Wireshark Foundation: [https://www.wireshark.org/download.html](https://www.wireshark.org/download.html) <br>
+Reverse Engineer USB keystroke by AliBawazeEer: [https://medium.com/@ali.bawazeeer/kaizen-ctf-2018-...](https://medium.com/@ali.bawazeeer/kaizen-ctf-2018-reverse-engineer-usb-keystrok-from-pcap-file-2412351679f4) <br>
+Brainfuck interpreter: [https://copy.sh/brainfuck/](https://copy.sh/brainfuck/) <br>
+Top 10 Most Complex and Bizarre esoteric programming languages: [https://ourcodeworld.com/articles/read/427/top-10...](https://ourcodeworld.com/articles/read/427/top-10-most-complex-and-bizarre-esoteric-programming-languages) <br>
+Malbolge interpreter: [https://zb3.me/malbolge-tools/#interpreter](https://zb3.me/malbolge-tools/#interpreter) <br>
+Keyboar layout converter: [https://awsm-tools.com/text/keyboard-layout](https://awsm-tools.com/text/keyboard-layout) <br>
+Caesar Cipher Encoder/Decoder: [https://cryptii.com/pipes/caesar-cipher](https://cryptii.com/pipes/caesar-cipher) <br>
+Online crypto tools: [https://www.dcode.fr/tools-list#cryptography](https://www.dcode.fr/tools-list#cryptography) <br>
+Online AES Encryption and Decryption: [https://www.devglan.com/online-tools/aes-encryption-decryption](https://www.devglan.com/online-tools/aes-encryption-decryption) <br>
+Base64 online decoder: [https://emn178.github.io/online-tools/base64_decode.html](https://emn178.github.io/online-tools/base64_decode.html) <br>
+Binary to Text translator: [https://www.rapidtables.com/convert/number/binary-to-ascii.html](https://www.rapidtables.com/convert/number/binary-to-ascii.html) <br>
+About substitution cipher: [http://practicalcryptography.com/ciphers/simple-substitution-cipher/](http://practicalcryptography.com/ciphers/simple-substitution-cipher/) <br>
+Cryptoanalysis of substitution cipher: [http://practicalcryptography.com/cryptanalysis/stochastic-searching/crypt...](http://practicalcryptography.com/cryptanalysis/stochastic-searching/cryptanalysis-simple-substitution-cipher/) <br>
+Morse Code Adaptive Audio Decoder: [https://morsecode.scphillips.com/labs/audio-decoder-adaptive/](https://morsecode.scphillips.com/labs/audio-decoder-adaptive/) <br>
 Ghidra Software Reverse Engineering Framework: [https://github.com/NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra)
